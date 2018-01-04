@@ -29,7 +29,7 @@ The technology used for the development
 ### Development
 
 
-#Copyrights
+# Copyrights
 
 //***********************************************************************
 //** © Copyright 2018, Karim Botros,Daria Zotova,Elizaveta Genke       **
