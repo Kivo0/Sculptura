@@ -31,8 +31,8 @@ The technology used for the development
 
 # Copyrights
 
-//***********************************************************************
-//** © Copyright 2018, Karim Botros,Daria Zotova,Elizaveta Genke       **
-//** and Mohamed Ali All rights reserved.                              **
-//** you can modify and reuse only if you mention Authors              **
-//***********************************************************************
+  ***********************************************************************
+  ** © Copyright 2018, Karim Botros,Daria Zotova,Elizaveta Genke       **
+  ** and Mohamed Ali All rights reserved.                              **
+  ** you can modify and reuse only if you mention Authors              **
+  ***********************************************************************
